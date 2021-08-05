@@ -1,6 +1,6 @@
 html {
   font-size: 10px;
-  background: url('./The-Fate-of-Your-Career-As-Told-By-The-Zodiac-Man.jpg') bottom center;
+  background: url('./4997685.jpg') center center;
   background-size: cover;
 }
 
@@ -19,25 +19,25 @@ body,html {
 }
 
 .key {
-  border: .4rem solid black;
-  border-radius: .5rem;
+  border: .4rem solid #6368fd;
+  border-radius: 1.5rem;
   margin: 1rem;
   font-size: 1.5rem;
   padding: 1rem .5rem;
   transition: all .07s ease;
   width: 10rem;
   text-align: center;
-  color: white;
-  background: rgba(0,0,0,0.4);
-  background: rgb(51 51 24 / 61%);
-  text-shadow: 0 0 .5rem black;
-  backdrop-filter: hue-rotate(139deg);
+    color: #6368fd;
+    background: rgb(255 255 255 / 66%);
+    text-shadow: 0rem 0.2rem 0.1rem white;
+  backdrop-filter: hue-rotate(343deg) blur(.3rem);
 }
 
 .playing {
   transform: scale(1.1);
-  border-color: #ffc600;
-  box-shadow: 0 0 1rem #ffc600;
+  border-color: #fff;
+  box-shadow: 0 0 1rem #0073ff;
+  backdrop-filter: hue-rotate(183deg) blur(.4rem);
 }
 
 kbd {
@@ -49,5 +49,5 @@ kbd {
   font-size: 1.2rem;
   text-transform: uppercase;
   letter-spacing: .1rem;
-  color: #ffc600;
+  color: #ff3a7f;
 }
